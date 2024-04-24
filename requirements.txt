@@ -2,3 +2,7 @@ numpy
 pandas
 pillow
 seaborn
+torch
+torchvision
+torchaudio
+scikit-learn
