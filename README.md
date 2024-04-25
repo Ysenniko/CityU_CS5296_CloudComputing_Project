@@ -1,5 +1,5 @@
 # CityU_CS5296_CloudComputing_Group10_Project
-## Title: House price prediction using Apache Spark
+## Title: House price prediction using PySpark
 
 1. Project Overview
 
