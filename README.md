@@ -16,15 +16,17 @@
 3. Detailed Installation Steps
 
     - Clone the Repository: 
+
         Users need to clone the project from GitHub to local. Specific command line instructions:
         ```bash    
         git clone https://github.com/Ysenniko/CityU_CS5296_CloudComputing_Project.git
         ```
 
     - Install Dependencies: 
+    
         The project requires the following dependencies to be installed:
 
-        - openjdk v17.0
+        - Recommended openjdk Version: v17.0
         - python==3.9
         - pyspark==3.5.1
         - numpy
