@@ -51,4 +51,4 @@
 
 4. How to Run Our Project
 
-    After the code's running environment is set up, enter the Project.ipynb file. The main code implementation of the project is completed in the Project.ipynb file. The project can be reproduced and verified by running the code from this Jupyter Notebook.
+    After the code running environment is set up, enter the `Project.ipynb` file. This file contains the main code implementation of the project.The project can be reproduced and verified by running the code in this Jupyter Notebook.
