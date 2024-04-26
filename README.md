@@ -26,8 +26,8 @@
     
         The project requires the following dependencies to be installed:
 
-        - Recommended openjdk Version: v17.0
-        - python==3.9
+        - Recommended openjdk version: v17.0
+        - Recommended python version: python==3.9
         - pyspark==3.5.1
         - numpy
         - pandas
